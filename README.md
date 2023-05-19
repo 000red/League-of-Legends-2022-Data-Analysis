@@ -60,6 +60,9 @@ Scatter plot of damage to champions and wards placed which shows a positive corr
 <iframe src="assets/section1_4.html" width=800 height=600 frameBorder=0></iframe>
 Combined bar graph of the two previous histographs which shows an increasing and positive correlation between damage dealt and wards place.
 
+
+**Pivot Table**
+[Link to Markdown File](./assets/message.txt)
 ---
 
 ## Assessment of Missingness
