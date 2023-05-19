@@ -43,21 +43,22 @@ Below is a preview of the head of the cleaned DataFrame:
 | 8401-8401_game_1      | team       | Oh My God                     |               40086 |            79 |
 
 
-### Univariable Graphs
 
+**Univariable Graphs**
 <iframe src="assets/section1_1.html" width=800 height=600 frameBorder=0></iframe>
-
 Histogram showing the frequency of damage to champaions within certain 100 bins which seems to show a normal distribution curve.
 
 <iframe src="assets/section1_2.html" width=800 height=600 frameBorder=0></iframe>
-
 Histogram showing the frequency of damage to champaions within certain 60 bins which seems to show a normal distribution curve.
 
-<iframe src="assets/section1_3.html" width=800 height=600 frameBorder=0></iframe>
 
+
+**Bivariable Graphs**
+<iframe src="assets/section1_3.html" width=800 height=600 frameBorder=0></iframe>
 Scatter plot of damage to champions and wards placed which shows a positive correlations between the two values.
 
 <iframe src="assets/section1_4.html" width=800 height=600 frameBorder=0></iframe>
+Combined bar graph of the two previous histographs which shows an increasing and positive correlation between damage dealt and wards place.
 
 ---
 
