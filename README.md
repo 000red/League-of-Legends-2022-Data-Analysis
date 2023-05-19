@@ -47,20 +47,29 @@ Below is a preview of the head of the cleaned DataFrame:
 
 <iframe src="assets/section1_1.html" width=800 height=600 frameBorder=0></iframe>
 
-Histogram showing the frequency of damage to champaions within certain 100 bins.
+Histogram showing the frequency of damage to champaions within certain 100 bins which seems to show a normal distribution curve.
 
 <iframe src="assets/section1_2.html" width=800 height=600 frameBorder=0></iframe>
 
-Histogram showing the frequency of damage to champaions within certain 60 bins.
+Histogram showing the frequency of damage to champaions within certain 60 bins which seems to show a normal distribution curve.
 
 <iframe src="assets/section1_3.html" width=800 height=600 frameBorder=0></iframe>
 
+Scatter plot of damage to champions and wards placed which shows a positive correlations between the two values.
+
+<iframe src="assets/section1_4.html" width=800 height=600 frameBorder=0></iframe>
 
 ---
 
 ## Assessment of Missingness
 
 For our NMAR analysis, based on the provided dataset, we believe the "Double Kills" column could potentially be considered as NMAR (Not Missing At Random). The reason behind this assumption is that there are certain regions in competitive LoL that do not consistently report or track double kills, resulting in missing values (null) for some teams.
+
+<iframe src="assets/section2_1.html" width=800 height=600 frameBorder=0></iframe>
+
+
+<iframe src="assets/section2_2.html" width=800 height=600 frameBorder=0></iframe>
+
 
 ---
 
