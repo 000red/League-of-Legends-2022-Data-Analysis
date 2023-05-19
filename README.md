@@ -24,7 +24,22 @@ By examining the relationship between the "Wards Placed" and "Damage Dealt to Ch
 
 
 ## Cleaning and EDA
+To ensure the accuracy of our analysis, we conducted several data cleaning procedures on the dataset. These procedures involved eliminating irrelevant rows and eliminating any missing or null values in the pertinent columns.
 
+To filter out unnecessary rows, we focused on the relationship between wards placed, damage dealt, and teams. We accomplished this by considering the "Position" column and retaining only the rows where the position was labeled as "team." This enabled us to work with aggregated data at the team level rather than individual player-level data.
+
+To address null values, we examined the "Wards Placed" and "Damage Dealt to Champions" columns. Rows containing null values in these columns were eliminated from the dataset. Null values can arise from incomplete or missing data, and by removing these rows, we ensured that our analysis is based on complete information regarding wards placed and damage dealt by teams.
+
+Through these data cleaning procedures, we successfully generated a cleaned DataFrame that exclusively consists of relevant rows and does not contain any missing values in the columns of interest.
+
+Below is a preview of the head of the cleaned DataFrame:
+| gameid                | position   | teamname                      |   damagetochampions |   wardsplaced |
+|:----------------------|:-----------|:------------------------------|--------------------:|--------------:|
+| ESPORTSTMNT01_2690210 | team       | Fredit BRION Challengers      |               56560 |            74 |
+| ESPORTSTMNT01_2690210 | team       | Nongshim RedForce Challengers |               79912 |            93 |
+| ESPORTSTMNT01_2690219 | team       | T1 Challengers                |               59579 |           119 |
+| ESPORTSTMNT01_2690219 | team       | Liiv SANDBOX Challengers      |               74855 |           129 |
+| 8401-8401_game_1      | team       | Oh My God                     |               40086 |            79 |
 
 ## Assessment of Missingness
 
