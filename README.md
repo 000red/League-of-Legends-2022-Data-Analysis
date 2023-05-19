@@ -43,9 +43,18 @@ Below is a preview of the head of the cleaned DataFrame:
 | 8401-8401_game_1      | team       | Oh My God                     |               40086 |            79 |
 
 
+### Univariable Graphs
+
 <iframe src="assets/section1_1.html" width=800 height=600 frameBorder=0></iframe>
 
+Histogram showing the frequency of damage to champaions within certain 100 bins.
+
 <iframe src="assets/section1_2.html" width=800 height=600 frameBorder=0></iframe>
+
+Histogram showing the frequency of damage to champaions within certain 60 bins.
+
+<iframe src="assets/section1_3.html" width=800 height=600 frameBorder=0></iframe>
+
 
 ---
 
