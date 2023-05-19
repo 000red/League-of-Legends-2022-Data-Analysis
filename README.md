@@ -72,8 +72,7 @@ Combined bar graph of the two previous histographs which shows an increasing and
 | 120-150       |                               2819     |                         80796.8 |          4399.46 |          2141.33  |          63.6712 |
 | 150-180       |                               3001.49  |                         93362.8 |          4327.09 |          2226.57  |         122.516  |
 
-We pivoted the mean number of wards per given range of damage which allows us to see if there could potentially be some form of correlation between the two values.
-
+We pivoted a given range of wards to show the mean damage to champions, damage mitigated (received) per minute, and damage per minute mean, max, and min which allows us to see if there could potentially be some form of correlation between the damage and number of wards.
 
 
 
