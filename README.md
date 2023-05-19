@@ -88,6 +88,9 @@ For our NMAR analysis, based on the provided dataset, we believe the "Double Kil
 
 <iframe src="assets/section2_2.html" width=800 height=600 frameBorder=0></iframe>
 
+A permutation test was ran on double kills and kills. We received a p-value of 0.25574425574425574 and since this value is greater than 0.05 then double kills is not dependent on kills.
+
+A permuation test was also ran on double kills and region. We reeived a p-value of 0.000999000999000999 and since this value is less than 0.05 then double kills is not dependent on region.
 
 ---
 
