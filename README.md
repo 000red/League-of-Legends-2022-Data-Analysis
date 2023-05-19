@@ -4,13 +4,13 @@ Project for DSC80 at UCSD
 
 
 
-Introduction
+## Introduction
 
 
-Cleaning and EDA
+## Cleaning and EDA
 
 
-Assessment of Missingness
+## Assessment of Missingness
 
 
-Hypothesis Testing
+## Hypothesis Testing
