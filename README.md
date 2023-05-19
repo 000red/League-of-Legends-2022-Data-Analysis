@@ -46,7 +46,18 @@ Below is a preview of the head of the cleaned DataFrame:
 
 ## Assessment of Missingness
 
+For our NMAR analysis, based on the provided dataset, we believe the "Double Kills" column could potentially be considered as NMAR (Not Missing At Random). The reason behind this assumption is that there are certain regions in competitive LoL that do not consistently report or track double kills, resulting in missing values (null) for some teams.
 
 ---
 
 ## Hypothesis Testing
+
+Null Hypothesis: There is no correlation between wards placed and damage dealt by teams in the League of Legends dataset.
+
+Alternative Hypothesis: There is a positive correlation between wards placed and damage dealt by teams in the League of Legends dataset.
+
+Test Statistic: 0.5119240614648413
+
+P-value: 0.0
+
+Conclusion: Based on the analysis using a significance level of 0.05, the p-value of 0.0 is less than the chosen significance level. Therefore, we reject the null hypothesis and conclude that there is a statistically significant positive correlation between wards placed and damage dealt by teams in the League of Legends.
