@@ -4,7 +4,7 @@ Project for DSC80 at UCSD
 ---
 
 ## Introduction
-In this analysis, we will be working with a dataset that contains statistical information on competitive matches in the popular online multiplayer game, League of Legends (LoL), specifically from the year 2022. By studying this dataset, we can gain valuable insights into different aspects of gameplay and explore potential connections between two important factors: the number of wards placed by players and the amount of damage they dealt. Our goal is to deepen our understanding of strategic gameplay elements and how they impact individual performance within the game.
+In this analysis, we will be working with a dataset that contains statistical information on competitive matches in the popular online multiplayer game, League of Legends, specifically from the year 2022. By studying this dataset, we can gain valuable insights into different aspects of gameplay and explore potential connections between two important factors: the number of wards placed by players and the amount of damage they dealt. Our goal is to deepen our understanding of strategic gameplay elements and how they impact individual performance within the game.
 
 Relevance and Significance:
 There are several reasons why readers should find this analysis interesting. Firstly, League of Legends boasts a large and dedicated player base, along with a thriving professional esports scene. For both professional players and casual enthusiasts looking to enhance their skills, understanding the relationship between specific gameplay actions, such as ward placement and damage dealt, can provide valuable insights.
