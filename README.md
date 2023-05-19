@@ -1,8 +1,7 @@
 # League of Legends 2022 Data Analysis
 Project for DSC80 at UCSD
 
-
-
+---
 
 ## Introduction
 In this analysis, we will be working with a dataset that contains statistical information on competitive matches in the popular online multiplayer game, League of Legends (LoL), specifically from the year 2022. By studying this dataset, we can gain valuable insights into different aspects of gameplay and explore potential connections between two important factors: the number of wards placed by players and the amount of damage they dealt. Our goal is to deepen our understanding of strategic gameplay elements and how they impact individual performance within the game.
@@ -22,6 +21,7 @@ Damage Dealt to Champions: The total amount of damage inflicted by a player duri
 
 By examining the relationship between the "Wards Placed" and "Damage Dealt to Champions" columns, we will explore whether there is a correlation between the number of wards placed by players and the damage they were able to inflict in matches.
 
+---
 
 ## Cleaning and EDA
 To ensure the accuracy of our analysis, we conducted several data cleaning procedures on the dataset. These procedures involved eliminating irrelevant rows and eliminating any missing or null values in the pertinent columns.
@@ -33,6 +33,7 @@ To address null values, we examined the "Wards Placed" and "Damage Dealt to Cham
 Through these data cleaning procedures, we successfully generated a cleaned DataFrame that exclusively consists of relevant rows and does not contain any missing values in the columns of interest.
 
 Below is a preview of the head of the cleaned DataFrame:
+
 | gameid                | position   | teamname                      |   damagetochampions |   wardsplaced |
 |:----------------------|:-----------|:------------------------------|--------------------:|--------------:|
 | ESPORTSTMNT01_2690210 | team       | Fredit BRION Challengers      |               56560 |            74 |
@@ -41,7 +42,11 @@ Below is a preview of the head of the cleaned DataFrame:
 | ESPORTSTMNT01_2690219 | team       | Liiv SANDBOX Challengers      |               74855 |           129 |
 | 8401-8401_game_1      | team       | Oh My God                     |               40086 |            79 |
 
+---
+
 ## Assessment of Missingness
 
+
+---
 
 ## Hypothesis Testing
