@@ -1,4 +1,4 @@
-# League of Legends 2022 Data Analysis
+# Wards x Damage
 Project for DSC80 at UCSD
 
 ---
