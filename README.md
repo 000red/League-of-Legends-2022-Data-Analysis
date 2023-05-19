@@ -42,6 +42,11 @@ Below is a preview of the head of the cleaned DataFrame:
 | ESPORTSTMNT01_2690219 | team       | Liiv SANDBOX Challengers      |               74855 |           129 |
 | 8401-8401_game_1      | team       | Oh My God                     |               40086 |            79 |
 
+
+<iframe src="assets/section1_1.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="assets/section1_2.html" width=800 height=600 frameBorder=0></iframe>
+
 ---
 
 ## Assessment of Missingness
