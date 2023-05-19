@@ -62,7 +62,22 @@ Combined bar graph of the two previous histographs which shows an increasing and
 
 
 **Pivot Table**
-[Link to Markdown File](./assets/message.txt)
+
+| wardsplaced   |   ('damagemitigatedperminute', 'mean') |   ('damageshare', 'mean') |   ('damagetakenperminute', 'mean') |   ('damagetochampions', 'mean') |   ('dpm', 'max') |   ('dpm', 'mean') |   ('dpm', 'min') |
+|:--------------|---------------------------------------:|--------------------------:|-----------------------------------:|--------------------------------:|-----------------:|------------------:|-----------------:|
+| 0-30          |                                547.782 |                 0.224053  |                            627.846 |                         14875.1 |          3436.95 |           468.472 |           0      |
+| 30-60         |                                602.29  |                 0.0944356 |                            674.134 |                         10739.4 |          4399.21 |           384.105 |          19.6245 |
+| 60-90         |                               1818.73  |                 0.0732676 |                           2110.18  |                         41362.4 |          5016.98 |          1436.58  |          18.0886 |
+| 90-120        |                               2525.45  |                 0.0744944 |                           2750.51  |                         65551.5 |          4909.36 |          1981.9   |          37.3916 |
+| 120-150       |                               2819     |                 0.0689079 |                           2897.44  |                         80796.8 |          4399.46 |          2141.33  |          63.6712 |
+| 150-180       |                               3001.49  |                 0.070922  |                           2959.1   |                         93362.8 |          4327.09 |          2226.57  |         122.516  |
+
+We pivoted the mean number of wards per given range of damage which allows us to see if there could potentially be some form of correlation between the two values.
+
+
+
+
+
 ---
 
 ## Assessment of Missingness
